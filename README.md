@@ -1,3 +1,1 @@
-- 👋 Hejsa, jeg er @Fr3ddieDK.
-- 💻 Jeg er en dansk fivem udvikler.
-- 🤖 Jeg koder også discord bots.
+
